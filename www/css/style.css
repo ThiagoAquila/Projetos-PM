@@ -1,0 +1,13 @@
+#display{
+  margin-top: 20px;
+  height: 60px;
+  font-size: 40px;
+}
+
+.linha {
+  margin-top: 10px;
+}
+
+.linha button {
+  font-size: 30px;
+}
